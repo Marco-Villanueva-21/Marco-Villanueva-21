@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Marco Villanueva
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the drums
 
